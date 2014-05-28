@@ -7,7 +7,7 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * Created with IntelliJ IDEA.
+ *
  * User: xiangzhuyuan
  * Date: 14-5-29
  * Time: 上午12:07

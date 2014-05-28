@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.io.InputStream;
 
 /**
- * Created with IntelliJ IDEA.
+ *
  * User: xiangzhuyuan
  * Date: 14-5-28
  * Time: 下午11:53

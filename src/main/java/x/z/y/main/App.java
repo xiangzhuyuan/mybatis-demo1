@@ -1,7 +1,7 @@
 package x.z.y.main;
 
 /**
- * Created with IntelliJ IDEA.
+ *
  * User: xiangzhuyuan
  * Date: 14-5-28
  * Time: 下午11:45
